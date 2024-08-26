@@ -12,3 +12,9 @@ p {
 .cooler {
     font-size: 24px;
 }
+
+#green {
+    background-color: #80ff80;
+    font-size: 24px;
+    font-weight: bold;
+}
