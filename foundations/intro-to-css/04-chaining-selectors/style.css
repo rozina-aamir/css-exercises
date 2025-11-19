@@ -8,3 +8,8 @@ Make the element with both the `avatar` and `distorted` classes 200 pixels wide,
     width: 300px;
     height: auto;
 }
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
