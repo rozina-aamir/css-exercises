@@ -8,12 +8,8 @@ body {
   font-weight: 800;
 }
 
-#small-para {
+.small-para {
   font-size: 14px;
-}
-
-.para {
-  font-size: 20px;
 }
 
 /* Button elements completed. DO NOT EDIT */
