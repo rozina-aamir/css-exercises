@@ -22,7 +22,10 @@ body {
 
 .content {
   background: #e3f4ff;
-  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .button-container {
