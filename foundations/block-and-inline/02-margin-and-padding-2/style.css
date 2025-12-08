@@ -1,3 +1,7 @@
+/*
+- Just as a reference, the font size in the desired outcome image is 16px. Aim to replicate the image *within reason*.
+*/
+
 body {
   background: #eee;
   font-family: sans-serif;
@@ -7,6 +11,7 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  padding: 10px;
 }
 
 .title {
