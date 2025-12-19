@@ -15,7 +15,9 @@
 }
 
 .left-links {
-  justify-content: left;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
 }
 
 ul {
