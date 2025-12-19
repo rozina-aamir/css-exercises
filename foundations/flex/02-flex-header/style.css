@@ -19,7 +19,6 @@
 
 .left-links {
   display: flex;
-  flex: 1 1 auto;
   justify-content: flex-start;
   align-items: center;
   flex-direction: row;
