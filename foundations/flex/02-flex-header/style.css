@@ -44,7 +44,6 @@ ul {
   display: flex;
   flex: auto;
   flex-direction: row;
-  justify-content: space-evenly;
   margin: auto;
 }
 
