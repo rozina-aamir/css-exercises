@@ -28,6 +28,7 @@
   flex: 1;
   justify-content: flex-start;
   flex-direction: row;
+  margin: auto;
 }
 
 .right-links {
