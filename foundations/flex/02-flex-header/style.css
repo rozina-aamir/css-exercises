@@ -42,7 +42,7 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
-  flex: 1;
+  flex: auto;
   flex-direction: row;
   justify-content: space-evenly;
   margin: auto;
