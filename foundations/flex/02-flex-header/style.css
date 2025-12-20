@@ -22,17 +22,18 @@
 }
 
 .left-links {
-  display: flex;
-  flex: 1;
   justify-content: flex-start;
-  flex-direction: row;
-  margin: auto;
 }
 
 .right-links {
+  justify-content: flex-end;
+}
+
+
+.left-links,
+.right-links {
   display: flex;
   flex: 1;
-  justify-content: flex-end;
   flex-direction: row;
   margin: auto;
 }
