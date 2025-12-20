@@ -33,7 +33,6 @@
 .left-links,
 .right-links {
   display: flex;
-  flex: 1;
   flex-direction: row;
   margin: auto;
 }
