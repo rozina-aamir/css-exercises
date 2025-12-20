@@ -45,7 +45,6 @@ ul {
   display: flex;
   flex: auto;
   flex-direction: row;
-  margin: auto;
 }
 
 a {
