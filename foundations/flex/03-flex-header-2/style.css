@@ -16,6 +16,7 @@ body {
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
+  margin: 16px;
 }
 
 .profile-image {
