@@ -27,6 +27,7 @@ body {
   flex-basis: 1;
   justify-content: flex-end;
   align-self: center;
+  margin: 8px;
 }
 
 .logo {
