@@ -32,6 +32,10 @@ img {
   padding: 52px;
 }
 
+.item {
+  width: 200px;
+}
+
 .text {
   max-width: 200px;
   display: flex;
