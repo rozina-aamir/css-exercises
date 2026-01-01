@@ -29,7 +29,6 @@ img {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  padding: 52px;
 }
 
 .item {
