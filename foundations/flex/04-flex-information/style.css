@@ -33,7 +33,7 @@ img {
 
 .item {
   max-width: 200px;
-  padding: 52px;
+  gap: 52px;
 }
 
 .text {
