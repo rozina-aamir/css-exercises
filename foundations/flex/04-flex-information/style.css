@@ -25,6 +25,11 @@ img {
   padding: 32px;
 }
 
+.plant {
+  display: flex;
+  flex-direction: row;
+}
+
 .text {
   max-width: 200px;
   display: flex;
