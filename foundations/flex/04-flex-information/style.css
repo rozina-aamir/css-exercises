@@ -27,6 +27,7 @@ img {
 .text {
   max-width: 200px;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 /* do not edit this footer */
