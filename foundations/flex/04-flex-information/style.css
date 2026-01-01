@@ -32,6 +32,11 @@ img {
   gap: 52px;
 }
 
+.image {
+  display: flex;
+  justify-content: center;
+}
+
 .item {
   max-width: 200px;
 }
