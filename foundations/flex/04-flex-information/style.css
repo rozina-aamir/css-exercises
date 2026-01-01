@@ -24,6 +24,11 @@ img {
   font-weight: 900;
 }
 
+.text {
+  max-width: 200px;
+  flex-wrap: wrap;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
