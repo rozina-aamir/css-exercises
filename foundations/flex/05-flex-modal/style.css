@@ -52,6 +52,9 @@ body {
 
 .question {
   font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 }
 
 .close-button {
