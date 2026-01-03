@@ -51,12 +51,6 @@ body {
   align-items: flex-start;
 }
 
-.header {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-}
-
 .close-button {
   background: #eee;
   border-radius: 50%;
