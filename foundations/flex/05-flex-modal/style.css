@@ -45,6 +45,11 @@ body {
   justify-content: center;
 }
 
+.top {
+  display: flex;
+  justify-content: center;
+}
+
 .header {
   display: flex;
   justify-content: center;
