@@ -45,12 +45,6 @@ body {
   justify-content: center;
 }
 
-.top {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-}
-
 .header {
   display: flex;
   align-items: flex-start;
