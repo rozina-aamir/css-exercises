@@ -63,6 +63,10 @@ body {
   padding: 20px;
 }
 
+.buttons {
+  gap: 10px;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
