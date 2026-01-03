@@ -45,7 +45,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-shrink: 3;
+  flex-shrink: 0;
 }
 
 .header {
