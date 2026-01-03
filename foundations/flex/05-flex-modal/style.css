@@ -59,6 +59,10 @@ body {
   margin: 0;
 }
 
+.main {
+  padding: 20px;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
