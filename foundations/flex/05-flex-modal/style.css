@@ -50,6 +50,10 @@ body {
   justify-content: space-between;
 }
 
+.question {
+  font-weight: bold;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
