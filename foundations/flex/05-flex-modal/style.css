@@ -57,6 +57,7 @@ body {
 
 .question {
   font-weight: bold;
+  font-size: 32px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
