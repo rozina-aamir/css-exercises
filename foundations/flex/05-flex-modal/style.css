@@ -63,6 +63,10 @@ body {
   padding: 5px;
 }
 
+.text {
+  padding: 5px;
+}
+
 .buttons {
   display: flex;
   gap: 10px;
