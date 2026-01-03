@@ -48,6 +48,7 @@ body {
 .header {
   display: flex;
   justify-content: center;
+  align-self: flex-start;
 }
 
 .close-button {
