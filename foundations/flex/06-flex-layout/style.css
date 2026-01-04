@@ -57,6 +57,7 @@ a {
 
 .buttons {
   padding: 10px;
+  gap: 10px;
 }
 
 img {
@@ -69,7 +70,6 @@ button {
   border-radius: 8px;
   background: #eee;
   padding: 10px;
-  gap: 10px;
 }
 
 input {
