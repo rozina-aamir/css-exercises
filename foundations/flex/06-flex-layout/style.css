@@ -62,5 +62,5 @@ input {
 }
 
 .footer {
-  align-self: flex-end;
+  align-items: flex-end;
 }
