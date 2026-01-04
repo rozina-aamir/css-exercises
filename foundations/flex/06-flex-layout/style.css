@@ -49,7 +49,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding-bottom: auto;
+  padding-bottom: 50px;
 }
 
 .input {
