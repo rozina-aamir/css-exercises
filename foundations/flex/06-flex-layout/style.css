@@ -31,6 +31,12 @@ a {
   flex-direction: row;
 }
 
+.left-links,
+.right-links {
+  display: flex;
+  flex-direction: row;
+}
+
 img {
   width: 600px;
 }
