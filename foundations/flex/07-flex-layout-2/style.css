@@ -45,6 +45,7 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  display: flex;
   align-items: stretch;
 }
 
