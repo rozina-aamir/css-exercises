@@ -65,6 +65,11 @@ ul {
   gap: 10px;
 }
 
+.content {
+  display: flex;
+  flex-direction: row;
+}
+
 .main {
   display: flex;
   flex-direction: row;
