@@ -48,6 +48,7 @@ body {
 
 .links {
   display: flex;
+  flex-direction: column;
   justify-content: flex-start;
   margin: 0;
   gap: 10px;
