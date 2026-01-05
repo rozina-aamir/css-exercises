@@ -46,6 +46,7 @@ body {
   background: royalblue;
   box-sizing: border-box;
   display: flex;
+  flex-shrink: 0;
   align-items: stretch;
 }
 
