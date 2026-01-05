@@ -42,6 +42,7 @@ body {
   display: flex;
   flex-shrink: 0;
   align-items: stretch;
+  padding: 16px;
 }
 
 a {
